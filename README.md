@@ -8,5 +8,5 @@ Project 1- Slot machine project
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project 2- Head and tail toss
-* Head and tail created GUI and Model vs view concept of programming
-* Topics covered through project are GUI layouts {uttons,labels,canvases and text field},event driven programing,comparison operators,separate view and model design
+* Head and tail created using GUI and Model vs view concept of programming
+* Topics covered through project are GUI layouts {Buttons, labels, canvases and text field},event driven programming, comparison operators, separate view and model design
