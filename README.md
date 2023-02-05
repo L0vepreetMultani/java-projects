@@ -1,4 +1,4 @@
-# java-projects
+# Java-projects
 This repository ontain the java projects that i made during my college for my assignments:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project 1- Slot machine project
